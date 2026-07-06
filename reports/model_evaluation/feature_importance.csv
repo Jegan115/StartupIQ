@@ -1,0 +1,16 @@
+feature,importance
+num__revenue,0.7335282091925279
+num__funding_rounds,0.21534472616799713
+num__employees,0.0360832317360324
+num__burn_rate,0.004056333418263986
+num__market_size_billion,0.0034505115430468244
+num__revenue_per_employee,0.0029229594392424676
+num__capital_efficiency,0.0019223584522483582
+num__burn_multiple,0.0018621995662284436
+cat__industry_Climate,0.0002075688921808616
+cat__industry_Fintech,0.00015903799891163042
+cat__industry_Ecommerce,0.00014831899236370102
+cat__industry_Health,8.694701601785912e-05
+cat__industry_AI,8.115943804026136e-05
+cat__industry_SaaS,7.87326311370318e-05
+cat__industry_Crypto,6.770551576116883e-05

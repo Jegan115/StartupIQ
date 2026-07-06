@@ -1,0 +1,12 @@
+metric,funding_rounds,founder_experience_years,team_size,market_size_billion,product_traction_users,revenue_usd,burn_rate_usd,burn_ratio,revenue_per_employee,user_traction_per_employee,capital_efficiency_ratio
+funding_rounds,1.0,0.0,0.0,-0.0,-0.0,-0.0,-0.0,-0.01,0.0,0.0,0.0
+founder_experience_years,0.0,1.0,0.0,0.01,-0.0,-0.0,0.0,-0.0,0.0,0.0,-0.0
+team_size,0.0,0.0,1.0,0.01,-0.0,0.0,-0.0,-0.0,-0.35,-0.39,-0.0
+market_size_billion,-0.0,0.01,0.01,1.0,0.0,0.0,0.01,0.0,0.0,0.0,0.0
+product_traction_users,-0.0,-0.0,-0.0,0.0,1.0,0.71,-0.0,-0.24,0.17,0.2,0.39
+revenue_usd,-0.0,-0.0,0.0,0.0,0.71,1.0,-0.0,-0.24,0.24,0.14,0.54
+burn_rate_usd,-0.0,0.0,-0.0,0.01,-0.0,-0.0,1.0,0.3,0.0,0.0,-0.36
+burn_ratio,-0.01,-0.0,-0.0,0.0,-0.24,-0.24,0.3,1.0,-0.06,-0.05,-0.18
+revenue_per_employee,0.0,0.0,-0.35,0.0,0.17,0.24,0.0,-0.06,1.0,0.89,0.13
+user_traction_per_employee,0.0,0.0,-0.39,0.0,0.2,0.14,0.0,-0.05,0.89,1.0,0.07
+capital_efficiency_ratio,0.0,-0.0,-0.0,0.0,0.39,0.54,-0.36,-0.18,0.13,0.07,1.0

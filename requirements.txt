@@ -1,0 +1,19 @@
+# Data Manipulation and Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+plotly>=5.15.0
+
+# Machine Learning & Statistics
+scikit-learn>=1.3.0
+
+# Development and Notebooks
+jupyter>=1.0.0
+notebook>=6.5.0
+
+# File Formats and Database
+openpyxl>=3.1.0
+sqlalchemy>=2.0.0
+# sqlite3 is built into Python's standard library, no external package required

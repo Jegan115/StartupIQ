@@ -1,0 +1,21 @@
+insight
+"100000 startups were analyzed, providing a broad cross-section of early-stage and growth-stage companies."
+"The most common outcome in the dataset is Failure, with 55610 records."
+"The average funding round count is 2.00, which signals how often companies need to raise capital to sustain growth."
+"The average revenue level is $782,819, showing a wide spread across business models."
+"The average burn ratio is 51.65, reinforcing that cash discipline is a critical differentiator."
+Successful exits show a higher average funding round count than failures.
+Revenue levels are materially higher in successful exits than in failures.
+Burn ratio remains a useful early warning metric for companies that may run out of runway.
+Market size alone is not sufficient; traction is the stronger marker of momentum.
+"The strongest sector by average revenue is Climate at $791,854."
+"The second-strongest sector by average revenue is Health at $788,163."
+"Investor type appears to influence the revenue profile, with none producing the highest average revenue."
+"Founder background also appears relevant, with first_time showing the highest average revenue."
+The correlation analysis suggests that revenue-related metrics provide more signal than raw headcount alone.
+The business opportunity is not just about entering a large market; execution quality matters more than market size alone.
+The dataset supports sector-specific benchmarking rather than applying one universal standard.
+A disciplined burn strategy is likely to improve the odds of survival through early growth phases.
+The current cleaned file is not sufficient for direct regional analysis without adding geographic fields.
+"Future analysis should focus on combinations of burn efficiency, revenue quality, and traction rather than single metrics."
+The strongest executive action is to screen prospects by efficiency and traction before underwriting them by market size.
