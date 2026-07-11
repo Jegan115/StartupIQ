@@ -21,4 +21,6 @@ notebook>=6.5.0
 # File Formats and Database
 openpyxl>=3.1.0
 sqlalchemy>=2.0.0
+
+xgboost>=2.0.0
 # sqlite3 is built into Python's standard library, no external package required
